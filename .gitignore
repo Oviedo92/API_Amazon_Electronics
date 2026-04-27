@@ -1,0 +1,10 @@
+bin/
+obj/
+*.dll
+*.exe
+*.so
+*.dylib
+*.duckdb
+*.json
+*.parquet
+.vs/
